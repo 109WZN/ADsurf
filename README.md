@@ -103,7 +103,6 @@ The ADsurf package is distributed under the [MIT license]("./LICENSE") (free sof
 
 ### Contact
  Liu Feng @ USTC, Email: liufeng2317@mail.ustc.edu.cn
- Zhao Yan @ USTC, Email: zhaoyan123@mail.ustc.edu.cn
 ```python
 @software{LiuFeng2317,
   author       = {Feng Liu},

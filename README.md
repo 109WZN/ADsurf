@@ -101,6 +101,11 @@ Contributions are welcom [.disba](https://github.com/keurfonluu/disba) and [Comp
 ## License
 The ADsurf package is distributed under the [MIT license]("./LICENSE") (free software).
 
+## Citation
+If you find ADsurf useful, please cite the following reference:
+
+[Feng Liu, Junlun Li, Lei Fu, Laiyu Lu, Multimodal surface wave inversion with automatic differentiation, Geophysical Journal International, 2024;, ggae155](https://doi.org/10.1093/gji/ggae155)
+
 ### Contact
  Liu Feng @ USTC, Email: liufeng2317@mail.ustc.edu.cn
 ```python
